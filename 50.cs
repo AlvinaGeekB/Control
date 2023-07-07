@@ -18,7 +18,7 @@ Console.WriteLine();
 }
     if (pos1 < 0 | pos1 > arr.GetLength(0) - 1 | pos2 < 0 | pos2 > arr.GetLength(1) - 1)
 {
-Console.WriteLine("Элемент не существует  ");
+Console.WriteLine("Элемента не существует");
 }
     else
 {
